@@ -33,6 +33,7 @@ section h1{
     align-items: center;
     flex-direction: column;
     box-shadow: 1px 1px 10px 10px gray;
+    border-radius: 10px;
 }
 
 .main-box{
